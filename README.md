@@ -16,3 +16,6 @@ First-motion polarity determination: Distinguished between upward and downward s
 Significance:
 Enhances the reliability of earthquake early warning systems by reducing false alerts and improving seismic signal classification.
 Demonstrates the scalability and efficiency of unsupervised methods, achieving superior results with reduced data and computational costs.
+
+# You can get the training dataset from here:
+https://drive.google.com/file/d/16itT_IZpM8w8KyFN8eL8iEfYX66Hk6Xb/view?usp=sharing
